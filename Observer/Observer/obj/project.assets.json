@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/Observer/Observer.csproj",
+      "projectUniqueName": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/Observer/Observer.csproj",
       "projectName": "Observer",
-      "projectPath": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/Observer/Observer.csproj",
+      "projectPath": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/Observer/Observer.csproj",
       "packagesPath": "/Users/jameslilliott/.nuget/packages/",
-      "outputPath": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/Observer/obj/",
+      "outputPath": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/Observer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jameslilliott/.config/NuGet/NuGet.Config"

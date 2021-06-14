@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{EE469B57-D98D-4CF2-BE1C-C990F2E57E90}|Default">
+  <MonoDevelop.Ide.ItemProperties.Stratergy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stratergy/Workers/Carpenter.cs">
+    <Files>
+      <File FileName="Stratergy/Program.cs" Line="1" Column="1" />
+      <File FileName="Tests/UnitTest1.cs" Line="39" Column="28" />
+      <File FileName="Stratergy/Workers/IWorker.cs" Line="9" Column="1" />
+      <File FileName="Stratergy/Resources/Resource.cs" Line="9" Column="6" />
+      <File FileName="Tests/Tests.csproj" Line="1" Column="1" />
+      <File FileName="Stratergy/Workers/Baker.cs" Line="12" Column="11" />
+      <File FileName="Stratergy/Workers/Sculpter.cs" Line="15" Column="35" />
+      <File FileName="Stratergy/Workers/Carpenter.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stratergy" expanded="True">
+            <Node name="Stratergy" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Workers" expanded="True">
+                <Node name="Carpenter.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Stratergy" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

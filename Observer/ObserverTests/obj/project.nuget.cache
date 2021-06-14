@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xVBkC7P+xHZPCqupVGiyNHKCLIrgTj0ChufFnOsBL7GwzUFHtSwp1LwiqwS/U/PZ66xhr5m3siqP3juAnMQb2w==",
+  "dgSpecHash": "or3ynGNz2x/lPS9oNzSo+NYnrcf3xjb3l/jrYsTOOY1wklIh1nPPtoNAPtTTr91vxEmq5rVRWkPuguN7X4JbvA==",
   "success": true,
-  "projectFilePath": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/ObserverTests/ObserverTests.csproj",
+  "projectFilePath": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/ObserverTests/ObserverTests.csproj",
   "expectedPackageFiles": [
     "/Users/jameslilliott/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/jameslilliott/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

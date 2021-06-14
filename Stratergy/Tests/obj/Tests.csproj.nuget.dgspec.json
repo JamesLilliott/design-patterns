@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Tests/Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/Stratergy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/Stratergy.csproj",
+        "projectName": "Stratergy",
+        "projectPath": "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/Stratergy.csproj",
+        "packagesPath": "/Users/jameslilliott/.nuget/packages/",
+        "outputPath": "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jameslilliott/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Tests/Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Tests/Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Tests/Tests.csproj",
+        "packagesPath": "/Users/jameslilliott/.nuget/packages/",
+        "outputPath": "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jameslilliott/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/Stratergy.csproj": {
+                "projectPath": "/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/Stratergy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

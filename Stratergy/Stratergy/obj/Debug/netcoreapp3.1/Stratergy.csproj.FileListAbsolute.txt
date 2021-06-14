@@ -1,0 +1,12 @@
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/bin/Debug/netcoreapp3.1/Stratergy.deps.json
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/bin/Debug/netcoreapp3.1/Stratergy.runtimeconfig.json
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/bin/Debug/netcoreapp3.1/Stratergy.runtimeconfig.dev.json
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/bin/Debug/netcoreapp3.1/Stratergy.dll
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/bin/Debug/netcoreapp3.1/Stratergy.pdb
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/Debug/netcoreapp3.1/Stratergy.csprojAssemblyReference.cache
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/Debug/netcoreapp3.1/Stratergy.AssemblyInfoInputs.cache
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/Debug/netcoreapp3.1/Stratergy.AssemblyInfo.cs
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/Debug/netcoreapp3.1/Stratergy.csproj.CoreCompileInputs.cache
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/Debug/netcoreapp3.1/Stratergy.dll
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/Debug/netcoreapp3.1/Stratergy.pdb
+/Users/jameslilliott/Projects/c#/design-patterns/Stratergy/Stratergy/obj/Debug/netcoreapp3.1/Stratergy.genruntimeconfig.cache

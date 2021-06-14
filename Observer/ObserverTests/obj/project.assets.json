@@ -5644,11 +5644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/ObserverTests/ObserverTests.csproj",
+      "projectUniqueName": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/ObserverTests/ObserverTests.csproj",
       "projectName": "ObserverTests",
-      "projectPath": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/ObserverTests/ObserverTests.csproj",
+      "projectPath": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/ObserverTests/ObserverTests.csproj",
       "packagesPath": "/Users/jameslilliott/.nuget/packages/",
-      "outputPath": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/ObserverTests/obj/",
+      "outputPath": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/ObserverTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jameslilliott/.config/NuGet/NuGet.Config"
@@ -5663,8 +5663,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/Observer/Observer.csproj": {
-              "projectPath": "/Users/jameslilliott/Projects/c#/patterns/observer/Observer/Observer/Observer.csproj"
+            "/Users/jameslilliott/Projects/c#/design-patterns/Observer/Observer/Observer.csproj": {
+              "projectPath": "/Users/jameslilliott/Projects/c#/design-patterns/Observer/Observer/Observer.csproj"
             }
           }
         }

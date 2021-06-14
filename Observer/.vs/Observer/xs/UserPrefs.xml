@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{76BCEE10-FE7A-4E8E-8014-5B835777D7C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObserverTests/packages.config">
+    <Files>
+      <File FileName="Observer/Program.cs" Line="14" Column="81" />
+      <File FileName="Observer/Subscribers/Human.cs" Line="13" Column="10" />
+      <File FileName="Observer/Door.cs" Line="1" Column="1" />
+      <File FileName="Observer/Subscribers/BadDog.cs" Line="22" Column="13" />
+      <File FileName="Observer/Subscribers/GoodDog.cs" Line="16" Column="10" />
+      <File FileName="Observer/Subscribers/ISubscriber.cs" Line="1" Column="1" />
+      <File FileName="ObserverTests/UnitTest1.cs" Line="29" Column="10" />
+      <File FileName="Observer/EventManager.cs" Line="1" Column="1" />
+      <File FileName="ObserverTests/ObserverTests.csproj" Line="1" Column="1" />
+      <File FileName="ObserverTests/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer" expanded="True">
+            <Node name="ObserverTests" expanded="True">
+              <Node name="packages.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Observer" expanded="True">
+            <Node name="ObserverTests" expanded="True">
+              <Node name="ObserverTests" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
